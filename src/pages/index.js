@@ -34,7 +34,7 @@ const IndexPage = () => (
       This demo uses twin.macro and gatsby-plugin-emotion.
     </Description>
     <Quote>twin - Use Tailwind classes within css-in-js libraries</Quote>
-    <Link small href="http://">
+    <Link small href="https://github.com/suin/gatsby-demo-tailwind-css-01">
       See GitHub
     </Link>
   </>
